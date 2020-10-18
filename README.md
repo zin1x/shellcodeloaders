@@ -8,7 +8,7 @@ Syntax: `queuserapc.exe [shellcode_binary_file]`
 
 
 ```sh
-C:\Users\zin1x\source\repos\eleven\Debug+>queueserapc.exe calcshell.bin
+C:\Users\zin1x\source\repos\queueserapc\Debug+>queueserapc.exe calcshell.bin
 
 #########################################
 # Shellcode Launcher using QueueUserAPC #
